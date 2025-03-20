@@ -10,6 +10,9 @@
       🔵 Boa noite!<br><br>
       <div align="right">Qual o seu nome? 🟡</div><br>
       🔵 Johnny!<br><br>
+      <div align="right">O que você faz? 🟡</div><br>
+      🔵 Estou cursando<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Análise e Desenvolvimento de Sistemas<br><br>
       <div align="right">Qual a sua conta secundário? 🟡</div><br>
       🔵 Como você sabe da conta secundária?<br><br>
       <div align="right">. . . 🟡</div><br>
