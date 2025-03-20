@@ -1,6 +1,6 @@
 <table align="center">
   <tr>
-    <th>Chat</th>
+    <th>Chat com Johnny</th>
   </tr>
   <tr>
     <td><br>
